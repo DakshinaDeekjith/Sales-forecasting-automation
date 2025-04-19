@@ -25,4 +25,5 @@ This project demonstrates how to clean, analyze, and forecast sales data using P
 - Forecasted next quarter sales with ~XX% accuracy
 - Enabled weekly report automation for time efficiency
 [sales_data.csv](https://github.com/user-attachments/files/19820868/sales_data.csv)
-![Sales-forecasting-automation](https://github.com/user-attachments/assets/6a602ad9-8a44-4e43-b9be-b9a0fd117670)
+
+[Sales-forecasting-automation.csv](https://github.com/user-attachments/files/19821062/Sales-forecasting-automation.csv)
